@@ -10,13 +10,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/platformio/platform-atmelavr.git"
+    "url": "https://github.com/tsandmann/platform-atmelavr.git"
   },
   "version": "1.12.5",
   "packageRepositories": [
-    "https://dl.bintray.com/platformio/dl-packages/manifest.json",
-    "http://dl.platformio.org/packages/manifest.json",
-    "https://raw.githubusercontent.com/eerimoq/simba/master/make/platformio/manifest.json"
+    "https://raw.githubusercontent.com/tsandmann/platform-atmelavr/ts/packages/manifest.json"
   ],
   "frameworks": {
     "arduino": {
